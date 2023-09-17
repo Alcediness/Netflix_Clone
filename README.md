@@ -1,5 +1,7 @@
-    <h2>Index</h2>
-    https://imgsh.net/a/c7oQ1tH.jpg
+
+<h2>Index</h2>
+![Anasayfa](https://github.com/Alcediness/Netflix_Clone/assets/132561719/e5cec593-70cc-48ad-8044-14b522cec68d)
+
     <h2>Login</h2>
     https://imgsh.net/a/aKd05Hi.jpg
     <h2>Register</h2>
@@ -9,7 +11,6 @@
     <h2>Who is Watching</h2>
     https://imgsh.net/a/kmVCcpZ.png
     <h2>Movie Index</h2>
-    https://imgsh.net/a/eB2j0om.jpg
     <h2>Need Premium Modal</h2>
     https://imgsh.net/a/AWNttJs.png
     <h2>Account Settings and Payment</h2>
